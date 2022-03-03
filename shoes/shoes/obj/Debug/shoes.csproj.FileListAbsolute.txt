@@ -1,0 +1,26 @@
+C:\Users\Droxx\source\repos\shoes\shoes\bin\Debug\shoes.exe.config
+C:\Users\Droxx\source\repos\shoes\shoes\bin\Debug\shoes.exe
+C:\Users\Droxx\source\repos\shoes\shoes\bin\Debug\shoes.pdb
+C:\Users\Droxx\source\repos\shoes\shoes\bin\Debug\Guna.UI.dll
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.csprojAssemblyReference.cache
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.Form1.resources
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.Properties.Resources.resources
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.csproj.GenerateResource.cache
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.csproj.CoreCompileInputs.cache
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.csproj.CopyComplete
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.exe
+C:\Users\Droxx\source\repos\shoes\shoes\obj\Debug\shoes.pdb
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\shoes.exe.config
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\shoes.exe
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\shoes.pdb
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form1.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Properties.Resources.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.csproj.CopyComplete
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.exe
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.pdb
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form2.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form3.resources

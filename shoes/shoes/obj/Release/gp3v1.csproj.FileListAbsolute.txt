@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\gp3v1.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\gp3v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\shoes.Form3.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\shoes.Form2.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\shoes.Form1.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\gp3v1.Properties.Resources.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\gp3v1.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Release\gp3v1.csproj.CoreCompileInputs.cache

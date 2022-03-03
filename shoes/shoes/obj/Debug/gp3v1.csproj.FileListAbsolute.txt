@@ -1,0 +1,14 @@
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\GP-3 V1.exe.config
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\GP-3 V1.exe
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\bin\Debug\GP-3 V1.pdb
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form3.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form2.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\shoes.Form1.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.Properties.Resources.resources
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\gp3v1.csproj.CopyComplete
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\GP-3 V1.exe
+C:\Users\Ian\Desktop\ZH-3 V1\shoes\shoes\obj\Debug\GP-3 V1.pdb
